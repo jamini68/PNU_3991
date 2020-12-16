@@ -3,7 +3,6 @@
 ## فهرست
 - [روز و ساعت ارائه دروس](#Course-Table)
 - [کار دانشجویی](#Student-Work)
-- [گیت هاب](#Github)
 - [رزومه - انگیزه نامه](#CV_SOP)
 - [جاوا اسکریپت](#JS)
 - [لاتک](#Latex)
@@ -23,51 +22,51 @@
     <th>روز</th>
   </tr>
   <tr>
+    <th >سيستم هاي چند رسانه اي</th>
     <th ></th>
-    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC">نظريه زبانهاوماشين ها 02-1115157</a></th>
-    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC" >نظريه زبانهاوماشين ها 01-1115157</a></th>
+    <th ></th>
     <th></th>
-    <th></th>
+    <th>هوش مصنوعي</th>
     <th>شنبه</th>
   </tr>
    <tr>
     <th ></th>
     <th ></th>
-    <th></th>
+    <th>مباني الكترونيك ديجيتال</th>
     <th></th>
     <th ></th>
     <th>یک شنبه</th>
   </tr>
    <tr>
-     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods" >روش پژوهش و ارائه02-1322010</a> </th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods">روش پژوهش و ارائه01-1322010</a></th>
-     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin#TOC">طراحي واسط كاربر</a></th>
-     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction#TOC">تعامل انسان و كامپيوتر</a></th>
+     <th></th>
+     <th></th>
+     <th></th>
+     <th></th>
     <th ></th>   
     <th>دوشنبه</th>
   </tr>
    <tr>
     <th ></th>
-    <th ></th>
+    <th >مديريت و كنترل پروژه هاي فناوري اطلاعات</th>
     <th></th>
     <th></th>
     <th ></th>
     <th>سه شنبه</th>
   </tr>
    <tr>
-    <th ></th>
-    <th ></th>
     <th></th>
     <th></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms#TOC">الگوريتم هاي پيشرفته</a></th>
+    <th>مديريت استراتژيك فناوري اطلاعات</th>
+    <th></th>
+     <th>مديريت استراتژيك فناوري اطلاعات</th>
     <th>چهارشنبه</th>
   </tr>
    <tr>
-    <th ></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement#TOC">مديريت پروژه هاي نرم افزاري</a></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture#TOC">معماری نرم افزار</a></th>
-     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies#TOC">متدولوژی ایجاد نرم افزار</a></th>
-    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering#TOC">مهندسی نرم افزار پیشرفته</a></th>
+    <th></th>
+     <th></th>
+     <th></th>
+     <th></th>
+    <th></th>
     <th>پنج شنبه</th>
   </tr>
 </table>
@@ -75,12 +74,10 @@
 [<kbd>↩</kbd>](#TOC)
 
 ## دیگر دروس
-- **ارشد**
-    - [سمینار و سمینار تتبع](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar#TOC)
-    - [پروژه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Theses#TOC)
+
 - **کارشناسی**
     - [کارآموزی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship#TOC)
-    - [پروژه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project#TOC)
+ 
  
  [<kbd>↩</kbd>](#TOC)
 -----------------------------------------
@@ -90,51 +87,16 @@
 
 > ## کار دانشجویی 
 - طراحی رزومه
-    - [محمد رضا بصیری](https://mrezabasiri.github.io/barayeman/)	 
-    - [میر محمد کمالی](https://mir-mohammad.github.io/)   
-    - [فاطمه وکیلی](https://fatemehvakili.github.io/)   
-    - [فاطمه مرادی](https://ftemeh021.github.io/ftemeh-resume/)     
-    - [سحر رجبی](https://saharrajabi.github.io/)   
+    - [جواد اميني](https://jamini68.github.io/)	 
+ 
 - تایپ با لاتک
     - 
-- ترجمه
-    - [میر محمد کمالی](https://mir-mohammad.github.io/) 
-    - [فاطمه وکیلی](https://fatemehvakili.github.io/)   
+- ترجمه 
 
 [<kbd>↩</kbd>](#TOC)
 
 </details>
 
-<a name="Github"></a>
-<details>
-    <summary>گیت</summary>
-    
-> ## ترمینال گیت 
-- [Cmder](https://cmder.net/)
-    
-> ##  GitHub آموزش
-- [TryGit - Learn Git in 15 Minutes](https://try.github.io/)
-- [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
-- [در یوتیوب _آقای عظیمیGitHub آموزش](https://www.youtube.com/watch?v=gLmCsU0ezd0&list=PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT&index=2&t=0s&app=desktop)
-- [All the Git-it Workshop completers!](https://github.com/jlord/patchwork)
-- [آموزش میزبانی وب سایت با صفحات در گیت هاب](https://git.ir/teamtreehouse-hosting-a-website-with-github-pages/)
-- [**An interactive git visualization to challenge and educate!**](https://learngitbranching.js.org/?demo)
-
->## آموزش گیت در سایت پچ ورک
-- [میر محمد کمالی_jlordآموزش اضافه کردن نام کاربری به صفحه ی](https://aparat.com/v/fvq5a)
-
-> ##  GitHubآموزش ساخت رزومه در
-- [آموزش ایجاد وبسایت روی گیت هاب_سایت تاب لرن_سیدمصطفی علیایی ](https://toplearn.com/courses/2203/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%D9%88%D8%A8%D8%B3%D8%A7%DB%8C%D8%AA-%D8%B1%D9%88%DB%8C-%DA%AF%DB%8C%D8%AA-%D9%87%D8%A7%D8%A8 )
-
-> ## دیگر خدمات دهندگان گیت
-- [Bitbucket ](https://bitbucket.org/)
-
-> ## انواع مجوزهای کد باز
-- [opensource.org](https://opensource.org/licenses/)
-
-[<kbd>↩</kbd>](#TOC)
-
-</details>
 
 <a name="CV_SOP"></a>
 <details>
@@ -143,23 +105,10 @@
 > ## (SOP)انگیزه نامه
 - [ شخصی چیست و چه کاربردی دارد؟(SOP)انگیزه نامه](https://www.writeme.ir/sop-%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87-%D9%86%D8%A7%D9%85%D9%87/)
 ----------
-> ## نمونه رزومه دانشجویان  
-+ [مهدی یزدی راد](https://mahdiyazdirad.github.io/)
-    - [@mahdiyazdirad](https://github.com/mahdiyazdirad)
-+ [محمد امانعلیخانی](https://md-akhi.github.io/)  
-  -  [@md-akhi](https://github.com/md-akhi)
-+ [مهدی سلطانمرادی](https://sultanmoradimehdi.github.io/resume/)
-    - [@sultanmoradimehdi](https://github.com/sultanmoradimehdi/)  
-+ [سید مهدی سیادتیان](https://siadatian.github.io/Resume/Index.html)
-    - [siadatian](https://github.com/siadatian/)  
-+ [شهلا فتح الهی](https://shfathollahi.github.io)  
-  -  [@shfathollahi](https://github.com/shfathollahi)
-  
-+ [بهرام اسد پور](https://akmcho.github.io)  
-  - [@akmcho](https://github.com/akmcho)
-  
-+ [علی موسوی خرد](http://amkherad.ir/tabs/about/)  
-  - [@amkherad](http://github.com/amkherad)
+> ## رزومه  
++ [جواد اميني](https://jamini68.github.io/)
+    - [@jamini68](https://github.com/jamini68)
+
 
 > ## نمونه قالب های رایگان(قابل دانلود)
 - [قالب1](https://www.20script.ir/cards-html-resume-portfolio/)
